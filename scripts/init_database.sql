@@ -1,4 +1,4 @@
---Create Database and Schemas--
+--Create Database and Schemas(Empty database and schemas created)--
 
 create database Datawearhouse
 
